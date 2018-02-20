@@ -4,10 +4,12 @@
 
 This programm was created according to the [task](https://github.com/davidwhitney/CodeDojos/tree/master/Diamond%20Kata)
 
+Here I, according to the task, use unit tests.
+This project is created exclusively for unit tests. that would check the working capacity of the program [from]()
+
 **What you need to run:**
 
-1. If you want to see the code you need to install a visual studio no lower than 2015 with a package of visuals with c#
-2. If you want to use only app you need to find file 'ConsoleApplication1.exe' and run it.
+1. You need to install a visual studio no lower than 2015 with a package of visuals with c#
 
 **Description of components**
 
@@ -15,28 +17,24 @@ This programm was created according to the [task](https://github.com/davidwhitne
     ------------------------|----------------------
             readme.md       | Instruction for users of the directory
             Diamond.sln     | it's a file with structure for organizing projects in Visual Studio. (the way:
-                            | diamond1/ConsoleApplication1)
-    ConsoleApplication1.exe | This file is a ready-made app that can be started and you run in the created application (the way: 
-                            | diamond1/ConsoleApplication1/bin/Debug)
-            App.config      | It's the configuration of progect (the way: diamond1/ConsoleApplication1)
+                            | diamond2/DIAMOND2)
+            App.config      | It's the configuration of progect (the way: diamond2/DIAMOND2/DIAMOND)
           Diamond.csproj    | It's is a Visual Studio .NET C# Project file extension. This file will have information about the files
-                            | included in that project. (the way: diamond1/ConsoleApplication1)
-            Program.cs      | This file includes the cod of my programm (the way: diamond1/ConsoleApplication1)
+                            | included in that project. (the way: diamond2/DIAMOND2/DIAMOND)
+            Program.cs      | This file includes the cod of my programm (the way: diamond2/DIAMOND2/DIAMOND)
+    UnitTestProject.csproj  | It's is a Visual Studio .NET C# Project file extension. This file will have information about the files
+                            | included in that project. (the way: diamond2/DIAMOND2/UnitTestProject1)
+       UnitTestProgram.cs   | This file includes the cod of my unit tests for programm (the way: diamond2/DIAMOND2/UnitTestProject1)
             
        
      
 **How to use programm**
 
-1. Without help of VS2015:
-
-    * Run ConsoleApplication1.exe from diamond1/ConsoleApplication1/bin/Debug
-    * Enter the letter
-    * Be happy!
-    
-2. With help of VS2015:
+1. With help of VS2015:
 
     * Install VS)
     * Open Diamond.sln in VS
+    *
     * Push the button 'run'
     * Be happy! 
     
