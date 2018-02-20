@@ -1,0 +1,5 @@
+C:\Users\Катя1\Desktop\DIAMOND\DIAMOND\bin\Debug\DIAMOND.exe.config
+C:\Users\Катя1\Desktop\DIAMOND\DIAMOND\bin\Debug\DIAMOND.exe
+C:\Users\Катя1\Desktop\DIAMOND\DIAMOND\bin\Debug\DIAMOND.pdb
+C:\Users\Катя1\Desktop\DIAMOND\DIAMOND\obj\Debug\DIAMOND.exe
+C:\Users\Катя1\Desktop\DIAMOND\DIAMOND\obj\Debug\DIAMOND.pdb
