@@ -5,7 +5,7 @@
 This programm was created according to the [task](https://github.com/davidwhitney/CodeDojos/tree/master/Diamond%20Kata)
 
 Here I, according to the task, use unit tests.
-This project is created exclusively for unit tests. that would check the working capacity of the program [from]()
+This project is created exclusively for unit tests. that would check the working capacity of the program [from](https://github.com/FazylovaEkaterina/diamond1)
 
 **What you need to run:**
 
@@ -33,9 +33,10 @@ This project is created exclusively for unit tests. that would check the working
 1. With help of VS2015:
 
     * Install VS)
-    * Open Diamond.sln in VS
-    *
-    * Push the button 'run'
+    * Open Diamond.sln in VS (The assembly will be opened together with the unit tests)
+    * Find section 'Test'
+    * In modal window choose 'run all tests'
+    * Check the results of the tests
     * Be happy! 
     
     
